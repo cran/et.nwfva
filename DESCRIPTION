@@ -1,6 +1,6 @@
 Package: et.nwfva
 Title: Forest Yield Tables for Northwest Germany and their Application
-Version: 0.1.1
+Version: 0.2.0
 Authors@R: c(
   person("Robert", "Nuske", role=c("aut", "cre"), 
          email="robert.nuske@mailbox.org", 
@@ -25,19 +25,19 @@ Description: The new yield tables developed by the Northwest German Forest
   the rule of proportion or with a functional approach.
 Depends: R (>= 3.5)
 Suggests: knitr, rmarkdown, tinytest
-License: GPL (>= 2)
+License: MIT + file LICENSE
 URL: https://github.com/rnuske/et.nwfva
 BugReports: https://github.com/rnuske/et.nwfva/issues
 Encoding: UTF-8
 Language: de
 NeedsCompilation: no
-RoxygenNote: 7.2.1
+RoxygenNote: 7.3.1
 VignetteBuilder: knitr
-Packaged: 2022-11-15 11:41:33 UTC; rnuske
+Packaged: 2025-03-02 21:55:45 UTC; rnuske
 Author: Robert Nuske [aut, cre] (<https://orcid.org/0000-0001-9773-2061>),
   Kai Staupendahl [aut] (<https://orcid.org/0000-0001-6595-3601>),
   Matthias Albert [aut] (<https://orcid.org/0000-0003-0344-4806>),
   Nordwestdeutsche Forstliche Versuchsanstalt (NW-FVA) [cph, fnd]
 Maintainer: Robert Nuske <robert.nuske@mailbox.org>
 Repository: CRAN
-Date/Publication: 2022-11-22 09:10:24 UTC
+Date/Publication: 2025-03-02 22:10:01 UTC
